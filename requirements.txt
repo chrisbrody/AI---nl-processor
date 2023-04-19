@@ -1,0 +1,4 @@
+langchain
+openai
+tiktoken
+pinecone-client==2.1.0
